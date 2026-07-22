@@ -22,12 +22,12 @@ Este portfólio é mais do que uma simples apresentação de projetos: é uma ja
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/PedroRikTi/professional-portfolio
    ```
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd professional-portfolio
    ```
 
 3. Abra o arquivo index.html no navegador.
