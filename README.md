@@ -40,9 +40,9 @@ Transformar ideias em experiências digitais marcantes, combinando estética, fu
 
 Se quiser conversar sobre projetos, oportunidades ou apenas trocar ideias, estou sempre aberto a novas conexões.
 
-- GitHub: [seu-usuario](https://github.com/PedroRikTi)
-- LinkedIn: (www.linkedin.com/in/pedrorikti)
-- E-mail: pedrorik22@email.com
+- GitHub: [PedroRikTi](https://github.com/PedroRikTi)
+- LinkedIn: [pedrorikti](www.linkedin.com/in/pedrorikti)
+- E-mail: [pedrorik22@email.com]
 
 ---
 
