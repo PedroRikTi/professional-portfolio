@@ -1,0 +1,74 @@
+{
+  "name": "Pedro Rik",
+  "photo": "https://raw.githubusercontent.com/PedroRikTi/portifolio/main/assets/img/my-photo.jpeg",
+  "job": "Full-Stack Developer",
+  "location": "Ipatinga - MG",
+  "phone": "(31) 99605-9234",
+  "email": "pedrorikti@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
+      }
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Proatividade",
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Dedicação",
+      "Perfeccionismo"
+    ]
+  },
+  "languages": [
+    "Português (Nativo)",
+    "Inglês (Intermediário)",
+    "Espanhol (Básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Meu Portfólio Profissional",
+      "url": "https://github.com/PedroRikTi",
+      "github": true
+    },
+    {
+      "name": "Zoethera",
+      "url": "https://github.com/PedroRikTi/zoethera",
+      "github": true
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/PedroRikTi/pokedex-js",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Gerente / Rede Veraneio",
+      "period": "Ago 2021 – Nov 2025",
+      "description": "Gestão completa da operação do posto, com foco em eficiência, metas, controle financeiro e atendimento de alto padrão."
+    },
+    {
+      "name": "Vendedor e Caixa / Comércio de Combustíveis Cidade Nobre Ltda",
+      "period": "Jan 2014 – Jul 2021",
+      "description": "Atendimento ao cliente, operação de caixa, organização do ambiente e suporte nas rotinas operacionais."
+    }
+  ]
+}
