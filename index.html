@@ -29,18 +29,25 @@
     <main class="main">
         <header class="header">
 
-            <img class="photoProfile" src="/assets/img/my-photo.jpeg" alt="Foto de Pedro Rik">
+            <img class="photoProfile" id="profilePhoto" src="/assets/img/my-photo.jpeg" alt="Foto de perfil" >
 
-            <h1 class="title">Hello,<br> I'm Pedro Rik </h1>
+            <h1 class="title">Hello,<br> I'm <spam id="profileName">Loading...</spam>
+            </h1>
 
             <div class="informations">
-                <p class="job">Full-Stack Developer</p>
-                <p class="location">Ipatinga MG</p>
-                <p class="phone">
-                    <a href="tel:+5531996059234">(31) 99605-9234</a>
+                <p class="job" id="profileJob">
+                    Loading...
                 </p>
+                <p class="location" id="profileLocation">
+                    Loading...
+                </p>
+                <p class="phone"><a href="tel:+5531996059234" id="profilePhone">
+                        Loading...
+                    </a></p>
                 <p class="email">
-                    <a href="mailto:pedrorikti@gmail.com">pedrorikti@gmail.com</a>
+                    <a href="mailto:pedrorikti@gmail.com" id="profileEmail">
+                        Loading...
+                    </a>
                 </p>
             </div>
         </header>
@@ -77,16 +84,13 @@
 
                         </ul>
                     </section>
-    
+
                     <section class="personal">
                         <h3>Habilidades pessoais:</h3>
-                        <ul>
-                            <li>communicative</li>
-                            <li>proactive</li>
-                            <li>adaptable</li>
-                            <li>hardworking</li>
-                            <li>committed</li>
-                            <li>perfectionist</li>
+                        <ul id="profile.skills.softSkills">
+                            <li>Loading ...</li>
+                            <li>Loading ...</li>
+                            <li>Loading ...</li>
                         </ul>
                     </section>
                 </div>
@@ -171,6 +175,8 @@
     </main>
 
     <script src="/assets/js/acordeon.js"></script>
+    <script src="/assets/js/api.js"></script>
+    <script src="/assets/js/main.js"></script>
 
 </body>
 
