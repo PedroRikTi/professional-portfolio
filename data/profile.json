@@ -9,23 +9,27 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/PedroRikTi/professional-portfolio/refs/heads/main/data/img/js.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/PedroRikTi/professional-portfolio/refs/heads/main/data/img/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/PedroRikTi/professional-portfolio/refs/heads/main/data/img/css.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/PedroRikTi/professional-portfolio/refs/heads/main/data/img/github.png"
       },
       {
         "name": "Docker",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
+        "logo": "https://raw.githubusercontent.com/PedroRikTi/professional-portfolio/refs/heads/main/data/img/docker.png"
+      },
+      {
+        "name": "nodejs",
+        "logo": "https://raw.githubusercontent.com/PedroRikTi/professional-portfolio/refs/heads/main/data/img/nodejs.png"
       }
     ],
     "softSkills": [
@@ -45,7 +49,7 @@
   "portfolio": [
     {
       "name": "Meu Portfólio Profissional",
-      "url": "https://github.com/PedroRikTi",
+      "url": "https://github.com/PedroRikTi/professional-portfolio",
       "github": true
     },
     {

@@ -15,13 +15,13 @@
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap">
 
-    <link rel="stylesheet" href="/assets/css/global.css">
-    <link rel="stylesheet" href="/assets/css/header.css">
-    <link rel="stylesheet" href="/assets/css/acordeon.css">
-    <link rel="stylesheet" href="/assets/css/languages.css">
-    <link rel="stylesheet" href="/assets/css/portfolio.css">
-    <link rel="stylesheet" href="/assets/css/experience.css">
-    <link rel="stylesheet" href="/assets/css/skills.css">
+    <link rel="stylesheet" href="assets/css/global.css">
+    <link rel="stylesheet" href="assets/css/header.css">
+    <link rel="stylesheet" href="assets/css/acordeon.css">
+    <link rel="stylesheet" href="assets/css/languages.css">
+    <link rel="stylesheet" href="assets/css/portfolio.css">
+    <link rel="stylesheet" href="assets/css/experience.css">
+    <link rel="stylesheet" href="assets/css/skills.css">
 </head>
 
 <body class="body">
@@ -29,7 +29,7 @@
     <main class="main">
         <header class="header">
 
-            <img class="photoProfile" id="profilePhoto" src="/assets/img/my-photo.jpeg" alt="Foto de perfil" >
+            <img class="photoProfile" id="profilePhoto" src="assets/img/my-photo.jpeg" alt="Foto de perfil" >
 
             <h1 class="title">Hello,<br> I'm <spam id="profileName">Loading...</spam>
             </h1>
@@ -61,27 +61,7 @@
                 <div class="skills">
                     <section class="tools">
                         <h3>Habilidades profissionais:</h3>
-                        <ul>
-                            <li>
-                                <img src="/assets/img/icons/js.svg" alt="javaScript" title="javaScrip">
-                            </li>
-
-                            <li>
-                                <img src="/assets/img/icons/css.svg" alt="css" title="css">
-                            </li>
-
-                            <li>
-                                <img src="/assets/img/icons/html.svg" alt="html" title="html">
-                            </li>
-
-                            <li>
-                                <img src="/assets/img/icons/github.svg" alt="github" title="github">
-                            </li>
-
-                            <li>
-                                <img src="/assets/img/icons/docker.svg" alt="docker" title="docker">
-                            </li>
-
+                        <ul id="profile.skills.hardSkills">
                         </ul>
                     </section>
 
@@ -104,10 +84,8 @@
             </button>
 
             <div class="content">
-                <ul class="languages">
-                    <li>Português <br> Nativo</li>
-                    <li>Inglês <br> Intermediário</li>
-                    <li>Espanhol <br> Básico</li>
+                <ul class="languages" id="profile.languages">
+                    <li>Loading ...</li>
                 </ul>
             </div>
         </section>
@@ -118,21 +96,7 @@
             </button>
 
             <div class="content">
-                <ul class="portfolio">
-                    <li>
-                        <h3 class="title github">Meu Portfólio Profissional</h3>
-                        <a href="https://github.com/PedroRikTi" target="_blank">https://github.com/PedroRikTi</a>
-                    </li>
-                    <li>
-                        <h3 class="title github">Em Construção - Zoethera</h3>
-                        <a href="https://github.com/PedroRikTi/zoethera"
-                            target="_blank">https://github.com/PedroRikTi/zoethera</a>
-                    </li>
-                    <li>
-                        <h3 class="title github">POKEDEX</h3>
-                        <a href="https://github.com/PedroRikTi/pokedex-js"
-                            target="_blank">https://github.com/PedroRikTi/pokedex-js</a>
-                    </li>
+                <ul class="portfolio" id="profile.portfolio">
                 </ul>
             </div>
         </section>
@@ -143,40 +107,16 @@
             </button>
 
             <div class="content">
-                <ul class="experience">
-                    <li>
-                        <h3 class="title">Gerente – Rede Veraneio</h3>
-                        <span class="period">Ago 2021 – Nov 2025 </span>
-                        <p>
-                            -Gestão completa da operação do posto, garantindo eficiência nos processos e cumprimento de
-                            metas<br>
-                            -Controle financeiro, fluxo de caixa e acompanhamento de indicadores de desempenho<br>
-                            -Tomada de decisões estratégicas em ambiente de alta responsabilidade<br>
-                            -Atendimento ao cliente e resolução de problemas com agilidade e foco em resultados<br>
-                            -Supervisão de rotinas operacionais e garantia de conformidade com normas e
-                            procedimentos<br>
-                        </p>
-                    </li>
-
-                    <li>
-                        <h3 class="title">Vendedor e Caixa – Comercio de Combustíveis Cidade Nobre ltda</h3>
-                        <span class="period">Jan 2014 – Jul 2021 </span>
-                        <p>
-                            - Atendimento ao cliente e operação de caixa<br>
-                            - Controle de pagamentos, conferência de valores e fechamento de caixa<br>
-                            - Organização do ambiente de trabalho e suporte nas rotinas operacionais<br>
-
-                        </p>
-                    </li>
+                <ul class="experience" id="profile.professionalExperience">
                 </ul>
             </div>
         </section>
 
     </main>
 
-    <script src="/assets/js/acordeon.js"></script>
-    <script src="/assets/js/api.js"></script>
-    <script src="/assets/js/main.js"></script>
+    <script src="assets/js/acordeon.js"></script>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/main.js"></script>
 
 </body>
 
